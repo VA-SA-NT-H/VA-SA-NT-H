@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vasanth Chandru</h1>
 <h3 align="center">I'm a dynamic Computer Science Engineer, passionate about learning and staying ahead in our fast-paced tech landscape. My quick adaptability, strong analytical skills, and excellent communication make me an asset in any team. I also thrive as a solo player, thanks to my self-motivation and the ability to independently tackle complex challenges. In a coordinated team, I bring a unique perspective and expertise, fostering innovation and positive collaboration. Let's innovate together!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 📫 How to reach me <mail>vasanthc.work@gmail.com</mail>
+- 📫 How to reach me <a href="mailto:vasanthc.work@gmail.com">vasanthc.work@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
